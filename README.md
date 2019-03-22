@@ -1,9 +1,9 @@
 ## Minesweeper Game using React/Redux 
 #### Demo 
-[Demo Link]()
+[Demo Link](https://miraclehu.github.io/react-redux-minesweeper/)
 
-![alt text]()
-![alt text]()
+![alt text](https://github.com/MiracleHu/react-redux-minesweeper/blob/master/demo-imgs/Flag.png)
+![alt text](https://github.com/MiracleHu/react-redux-minesweeper/blob/master/demo-imgs/demo.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
